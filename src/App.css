@@ -1,3 +1,11 @@
+#root{
+  text-align: center;
+}
+
+.letters > .selected {
+  color: rgb(206, 200, 200)
+}
+
 .App {
   text-align: center;
 }

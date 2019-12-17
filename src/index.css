@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#score{
+  padding: 10px
+}
+
+.high-score{
+  color: rgb(58, 223, 58);
+  font-weight: bold;
+}
+
+.medium-score{
+  color: rgb(255, 187, 0);
+  font-weight: bold;
+}
+
+.low-score{
+  color: red;
+  font-weight: bold;
+}
+
+.hint{
+  padding: 10px;
+  color: blue;
+}
+
+.letters{
+  padding: 10px
+}
+
+.new-game{
+  padding: 20px
+}
